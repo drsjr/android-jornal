@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_today"
+        android:enabled="true"
+        android:icon="@drawable/ic_warning"
+        android:title="@string/today" />
+
+    <!--<item
+        android:id="@+id/menu_preferences"
+        android:enabled="true"
+        android:icon="@drawable/ic_warning"
+        android:title="@string/preferences" />-->
+
+    <item
+        android:id="@+id/menu_all_sections"
+        android:enabled="true"
+        android:icon="@drawable/ic_warning"
+        android:title="@string/section" />
+
+</menu>

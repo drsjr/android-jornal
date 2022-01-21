@@ -1,0 +1,7 @@
+{
+  "detail": {
+    "code": 401,
+    "message": "email or password invalid",
+    "short": "incorrect_credential"
+  }
+}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/page_loading"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:translationZ="1dp"
+    android:elevation="1dp"
+    android:gravity="center"
+    android:visibility="gone"
+    android:background="@android:color/transparent"
+    app:elevation="1dp"
+    tools:visibility="visible">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/layout_margin_4"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:orientation="horizontal"
+        android:background="@drawable/shape_loading"
+        android:elevation="@dimen/layout_margin_4"
+        android:translationZ="@dimen/layout_margin_2"
+        android:clipToPadding="false"
+        android:gravity="center_vertical"
+        app:elevation="4dp">
+
+        <TextView
+            style="@style/TextAppearance.Journal.Caption1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/layout_margin_8"
+            android:layout_marginEnd="@dimen/layout_margin_8"
+            android:text="@string/preferences"
+            android:visibility="gone"
+            tools:visibility="visible"/>
+
+        <ProgressBar
+            style="@style/Widget.MaterialComponents.CircularProgressIndicator"
+            android:layout_width="@dimen/layout_margin_32"
+            android:layout_height="@dimen/layout_margin_32"
+            android:indeterminate="true"/>
+
+    </LinearLayout>
+
+</LinearLayout>

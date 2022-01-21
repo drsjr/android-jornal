@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".presentation.login.SignInActivity">
+
+    <LinearLayout
+        android:id="@+id/layout_sign_in"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/layout_margin_32"
+        android:paddingTop="@dimen/layout_margin_32"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_jornal_title"
+            android:layout_marginBottom="@dimen/layout_margin_32"
+            android:contentDescription="@null"/>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/layout_margin_16"
+            android:layout_marginEnd="@dimen/layout_margin_16"
+            android:hint="@string/email">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/username"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="1"
+                android:lines="1"
+                android:inputType="textEmailAddress"
+                tools:text="test@test.com"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/layout_margin_16"
+            android:layout_marginEnd="@dimen/layout_margin_16"
+            android:layout_marginTop="@dimen/layout_margin_16"
+            android:hint="@string/password">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword"
+                android:maxLines="1"
+                android:lines="1"
+                tools:text="test"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/sign_in"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginStart="@dimen/layout_margin_16"
+            android:layout_marginEnd="@dimen/layout_margin_16"
+            android:layout_marginTop="@dimen/layout_margin_24"
+            android:textAllCaps="false"
+            android:textColor="?attr/colorSecondary"
+            android:enabled="false"
+            android:text="@string/sign_in" />
+
+    </LinearLayout>
+
+    <include
+        android:id="@+id/loading_include"
+        layout="@layout/layout_loading" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

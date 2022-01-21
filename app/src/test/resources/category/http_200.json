@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Últimas",
+    "path": "ultimas",
+    "code": 36,
+    "disabled": false
+  },
+  {
+    "id": 2,
+    "name": "Jundiaí",
+    "path": "jundiai",
+    "code": 8,
+    "disabled": false
+  },
+  {
+    "id": 3,
+    "name": "Política",
+    "path": "politica",
+    "code": 12,
+    "disabled": false
+  },
+  {
+    "id": 4,
+    "name": "Economia",
+    "path": "economia",
+    "code": 16,
+    "disabled": false
+  },
+  {
+    "id": 5,
+    "name": "Polícia",
+    "path": "policia",
+    "code": 80,
+    "disabled": false
+  },
+  {
+    "id": 6,
+    "name": "Esportes",
+    "path": "esportes",
+    "code": 20,
+    "disabled": false
+  },
+  {
+    "id": 7,
+    "name": "Cultura",
+    "path": "cultura",
+    "code": 24,
+    "disabled": false
+  },
+  {
+    "id": 8,
+    "name": "Hype",
+    "path": "hype",
+    "code": 84,
+    "disabled": false
+  },
+  {
+    "id": 9,
+    "name": "Opinião",
+    "path": "opiniao",
+    "code": 111,
+    "disabled": false
+  }
+]

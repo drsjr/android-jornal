@@ -1,0 +1,15 @@
+<resources>
+    <string name="title_example">Biden Support Israel-Gaza Cease-Fire, as Fighting Rages Into Second Week</string>
+    <string name="subtitle_example">President Biden called for a halt to the fighting when he spoke with Prime Minister Benjamin Netanyahu of Israel, according to a carefully worded statement.</string>
+    <string name="references_example">Fotografo XYZ</string>
+
+
+    <!--Just to remove the lint warnings-->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Entrar</string>
+    <string name="today">Hoje</string>
+    <string name="preferences">Preferência</string>
+    <string name="section">Categorias</string>
+
+</resources>

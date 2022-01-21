@@ -1,0 +1,202 @@
+{
+  "id": 101,
+  "created_at": "2021-10-02 00:13:02.833783",
+  "news": [
+    {
+      "front_page_id": 101,
+      "article_id": 285,
+      "place": "carrossel",
+      "news": {
+        "id": 285,
+        "url": "/economia/2021/10/136133-dolar-tem-maior-queda-em-tres-semanas-e-fecha-abaixo-de-rs-540.html",
+        "created_at": "2021-10-01 19:35:00",
+        "title": "Dólar tem maior queda em três semanas e fecha abaixo de R$ 5,40",
+        "subtitle": "",
+        "image": "https://www.jj.com.br/_midias/jpg/2021/10/01/600x450/1_2020_06_08t201234z_1_lynxmpeg571qz_rtroptp_4_mideast_iran_usa-539008.jpg",
+        "category": 4
+      }
+    },
+    {
+      "front_page_id": 101,
+      "article_id": 286,
+      "place": "carrossel",
+      "news": {
+        "id": 286,
+        "url": "/cultura/2021/10/136131-morre-o-ator-jorge-cerruti-aos-77-anos-em-sao-paulo.html",
+        "created_at": "2021-10-01 19:33:00",
+        "title": "Morre o ator Jorge Cerruti, aos 77 anos, em São Paulo",
+        "subtitle": "",
+        "image": "https://www.jj.com.br/_midias/jpg/2021/10/01/600x450/1_csm_morre_o_ator_jorge_cerruti__aos_77_anos_divulgacao_62b70d9d5e-538988.jpg",
+        "category": 7
+      }
+    },
+    {
+      "front_page_id": 101,
+      "article_id": 282,
+      "place": "carrossel",
+      "news": {
+        "id": 282,
+        "url": "/ultimas/2021/10/136124-conselho-federal-de-medicina-e-processado-por-parecer-favoravel-a-cloroquina.html",
+        "created_at": "2021-10-01 19:17:00",
+        "title": "Conselho Federal de Medicina é processado por parecer favorável à cloroquina",
+        "subtitle": "",
+        "image": "https://www.jj.com.br/_midias/jpg/2020/09/08/600x450/1_hidroxicloroquina__coronavirus_brazil-212537.jpg",
+        "category": 1
+      }
+    },
+    {
+      "front_page_id": 101,
+      "article_id": 287,
+      "place": "column",
+      "news": {
+        "id": 287,
+        "url": "/ultimas/2021/10/136132-remedio-contra-covid-anima-mercado-e-bolsa-sobe-173.html",
+        "created_at": "2021-10-01 19:35:00",
+        "title": "Remédio contra covid anima mercado e Bolsa sobe 1,73%",
+        "subtitle": "",
+        "image": "https://www.jj.com.br/_midias/jpg/2021/10/01/600x450/1_2083726_fotoarena_jpg-538998.jpg",
+        "category": 1
+      }
+    },
+    {
+      "front_page_id": 101,
+      "article_id": 284,
+      "place": "column",
+      "news": {
+        "id": 284,
+        "url": "/economia/2021/10/136125-bc-diz-ter-implementado-mecanismos-complementares-de-seguranca-apos-vazamento-de-chaves-pix.html",
+        "created_at": "2021-10-01 19:22:00",
+        "title": "BC diz ter implementado mecanismos complementares de segurança após vazamento de chaves Pix",
+        "subtitle": "",
+        "image": "https://www.jj.com.br/_midias/jpg/2021/09/06/600x450/1_pix_0411202555-515077.jpg",
+        "category": 4
+      }
+    },
+    {
+      "front_page_id": 101,
+      "article_id": 281,
+      "place": "main",
+      "news": {
+        "id": 281,
+        "url": "/ultimas/2021/10/136126-preco-do-diesel-sobe-2-na-semana-com-repasse-de-reajuste-na-refinaria.html",
+        "created_at": "2021-10-01 19:24:00",
+        "title": "Preço do diesel sobe 2% na semana com repasse de reajuste na refinaria",
+        "subtitle": "",
+        "image": "https://www.jj.com.br/_midias/jpg/2021/09/28/600x450/1_diesel_acaba-533706.jpg",
+        "category": 1
+      }
+    },
+    {
+      "front_page_id": 101,
+      "article_id": 249,
+      "place": "other",
+      "news": {
+        "id": 249,
+        "url": "/economia/2021/10/136016-caixa-paga-auxilio-emergencial-a-nascidos-em-outubro.html",
+        "created_at": "2021-10-01 06:09:00",
+        "title": "Caixa paga auxílio emergencial a nascidos em outubro",
+        "subtitle": "O benefício conta com parcelas de R$ 150 a R$ 375, dependendo da família assistida",
+        "image": "https://www.jj.com.br/_midias/jpg/2021/10/01/600x450/1_auxilio_emergencial_2804217521-537396.jpg",
+        "category": 4
+      }
+    },
+    {
+      "front_page_id": 101,
+      "article_id": 246,
+      "place": "other",
+      "news": {
+        "id": 246,
+        "url": "/cultura/2021/10/135901-magia-e-diversao-nos-concertos-astra.html",
+        "created_at": "2021-10-01 03:02:00",
+        "title": "Magia e diversão nos Concertos Astra-Finamax",
+        "subtitle": "PARA TODA FAMÍLIA Espetáculo 'Fábulas de La Fontaine' estreia amanhã (2)",
+        "image": "https://www.jj.com.br/_midias/jpg/2021/07/28/600x450/1_mi_fabulas_foto_osmar_zampieri__54_-476268.jpg",
+        "category": 7
+      }
+    },
+    {
+      "front_page_id": 101,
+      "article_id": 247,
+      "place": "other",
+      "news": {
+        "id": 247,
+        "url": "/ultimas/2021/10/136017-dia-nacional-do-idoso-conheca-politicas-publicas-para-essa-populacao.html",
+        "created_at": "2021-10-01 06:48:00",
+        "title": "Dia Nacional do Idoso: conheça políticas públicas para essa população",
+        "subtitle": "Família, sociedade e Estado têm o dever de amparar as pessoas idosas e seus direitos",
+        "image": "https://www.jj.com.br/_midias/jpg/2021/10/01/600x450/1_mcamg_abr_280918_6354_1-537406.jpg",
+        "category": 1
+      }
+    },
+    {
+      "front_page_id": 101,
+      "article_id": 245,
+      "place": "other",
+      "news": {
+        "id": 245,
+        "url": "/esportes/2021/10/135982-palmeiras-e-flamengo-vao-em-busca-do-tri-continental.html",
+        "created_at": "2021-10-01 03:02:00",
+        "title": "Palmeiras e Flamengo vão \rem busca do tri continental",
+        "subtitle": "LIBERTADORES Uma final 100% brasileira coloca frente a frente dois clubes que podem fazer história",
+        "image": "https://www.jj.com.br/_midias/jpg/2021/09/30/600x450/1_globo_futebol_audiencia_palmeiras_flamengo_ao_vivo_jogador_pedro_foto_marcelo_cortes_fixed_large-537084.jpg",
+        "category": 6
+      }
+    },
+    {
+      "front_page_id": 101,
+      "article_id": 248,
+      "place": "other",
+      "news": {
+        "id": 248,
+        "url": "/esportes/2021/10/136014-empate-entre-sampaio-correa-e-remo-finaliza-27-rodada-da-serie-b.html",
+        "created_at": "2021-10-01 00:23:00",
+        "title": "Empate entre Sampaio Corrêa e Remo finaliza 27ª rodada da Série B",
+        "subtitle": "A igualdade manteve as equipes na parte do meio da tabela, somando 37 pontos",
+        "image": "https://www.jj.com.br/_midias/jpg/2021/10/01/600x450/1_20210930220958_img_2524-537376.jpg",
+        "category": 6
+      }
+    },
+    {
+      "front_page_id": 101,
+      "article_id": 244,
+      "place": "other",
+      "news": {
+        "id": 244,
+        "url": "/hype/2021/09/135913-simaria-participa-de-semana-de-moda-de-paris.html",
+        "created_at": "2021-09-30 11:50:00",
+        "title": "Simaria participa de Semana de Moda de Paris",
+        "subtitle": "",
+        "image": "https://www.jj.com.br/_midias/jpg/2021/09/30/600x450/1_ihjp-536268.jpg",
+        "category": 8
+      }
+    },
+    {
+      "front_page_id": 101,
+      "article_id": 242,
+      "place": "other",
+      "news": {
+        "id": 242,
+        "url": "/esportes/2021/09/136012-athletico-pr-elimina-penarol-e-sul-americana-tera-final-brasileira.html",
+        "created_at": "2021-09-30 23:47:00",
+        "title": "Athletico-PR elimina Peñarol e Sul-Americana terá final brasileira",
+        "subtitle": "Rubro-Negro paranaense decidirá o título com o Red Bull Bragantino em 20 de novembro",
+        "image": "https://www.jj.com.br/_midias/jpg/2021/09/30/600x450/1_2021_10_01t011003z_1876069367_hp1eha1038p07_rtrmadp_3_soccer_sudamericana_apr_pen_report-537356.jpg",
+        "category": 6
+      }
+    },
+    {
+      "front_page_id": 101,
+      "article_id": 243,
+      "place": "other",
+      "news": {
+        "id": 243,
+        "url": "/ultimas/2021/10/136015-lotomania-tera-mais-um-sorteio-semanal-a-partir-desta-sexta-feira.html",
+        "created_at": "2021-10-01 06:09:00",
+        "title": "Lotomania terá mais um sorteio semanal a partir desta sexta-feira",
+        "subtitle": "O concurso 2.218 ocorre hoje, iniciando o novo calendário com três sorteios semanais",
+        "image": "https://www.jj.com.br/_midias/jpg/2021/10/01/600x450/1_992440_df_30122015dsc_2978_-537386.jpg",
+        "category": 1
+      }
+    }
+  ]
+}
