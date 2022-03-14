@@ -33,7 +33,3 @@ https://ympe.herokuapp.com/docs
 Faço o web crawling das notícias e sua formatação para ser gravado em um Postgres.
 
 https://github.com/drsjr/scrapy-journal
-
-## Para o futuro
-
-https://docs.google.com/presentation/d/1069YSQBY21pLT_wWY5P18YP4TgBafhe0O6SKOZKifnM/edit?usp=sharing
